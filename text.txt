@@ -1,0 +1,16 @@
+// TailwindCSS Website
+https://v3.tailwindcss.com/docs/guides/vite
+
+// Installed  
+npm install tailwindcss @tailwindcss/vite
+npm install -D tailwindcss@3 postcss autoprefixer
+npx tailwindcss init -p
+npm install react-router-dom
+npm install axios
+
+// Installed
+npm install @react-three/drei @react-three/fiber framer-motion maath react-tilt react-vertical-timeline-component three
+npm install boxicons
+npm install react-icons
+
+
