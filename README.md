@@ -44,7 +44,7 @@ Check it out here **https://personal-portfolio-site-mu.vercel.app/**
 # Contact
 Feel free to connect with me:
 
-**Email: zahrayasin2209@gmailcom** \n
-**LinkedIn: www.linkedin.com/in/zahra-yasin-18b3a6246**
+1. **Email: zahrayasin2209@gmailcom** 
+2. **LinkedIn: www.linkedin.com/in/zahra-yasin-18b3a6246**
 
 ## If you like this project, feel free to star ⭐ the repository!
