@@ -160,7 +160,9 @@ const Chatbot = () => {
               </div>
             ))}
           </div>
-          <div className="flex border-t border-gray-300">
+{/*           <div className="flex border-t border-gray-300"> */}
+            <div className="flex bottom-2 w-full sm:w-full border-t border-gray-300">
+
             <input
               type="text"
               value={userInput}
