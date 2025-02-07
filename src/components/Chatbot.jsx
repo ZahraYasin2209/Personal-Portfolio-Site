@@ -160,22 +160,23 @@ const Chatbot = () => {
               </div>
             ))}
           </div>
-         <div className="p-3 border-t border-gray-300 flex items-center bg-white">
-  <input
-    type="text"
-    className="flex-1 p-2 text-sm border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
-    placeholder="Type your message..."
-    value={userInput}
-    onChange={(e) => setUserInput(e.target.value)}
-    onKeyPress={(e) => e.key === "Enter" && sendMessage()}
-  />
-  <button
-    className="ml-2 p-2 bg-purple-700 text-white rounded-lg hover:bg-purple-800 transition duration-300"
-    onClick={sendMessage}
-  >
-    Send
-  </button>
-</div>
+                    <div className="flex border-t border-gray-300"> 
+
+            <input
+              type="text"
+              value={userInput}
+              onChange={(e) => setUserInput(e.target.value)}
+              placeholder="Type a message..."
+              className="flex-1 p-2 border border-gray-200 bg-gray-100 text-black text-[16px] outline-none"
+              onKeyPress={(e) => e.key === "Enter" && sendMessage()}
+            />
+            <button
+              onClick={sendMessage}
+              className="p-2 bg-purple-700 text-white text-md font-semibold rounded-r-lg"
+            >
+              Send
+            </button>
+          </div>
 
         </div>
       )}
