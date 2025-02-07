@@ -109,8 +109,8 @@ const Hero = () => {
             </a>
           </div>
 
-          {/* Image Container */}
-          <div className="relative top-[-500px] right-[-530px] h-full flex justify-center items-center">
+          {/* Image Container - Visible only on large screens */}
+          <div className="hidden lg:flex relative top-[-500px] right-[-530px] h-full justify-center items-center">
             <img
               src={myImage}
               alt="My Image"
