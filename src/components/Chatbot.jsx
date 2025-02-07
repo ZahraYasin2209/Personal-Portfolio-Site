@@ -160,7 +160,7 @@ const Chatbot = () => {
               </div>
             ))}
           </div>
-          <div className="p-3 border-t border-gray-300 flex items-center bg-white">
+         <div className="p-3 border-t border-gray-300 flex items-center bg-white">
   <input
     type="text"
     className="flex-1 p-2 text-sm border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
@@ -176,6 +176,7 @@ const Chatbot = () => {
     Send
   </button>
 </div>
+
         </div>
       )}
     </div>
