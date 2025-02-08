@@ -68,7 +68,7 @@ const Hero = () => {
           </div>
           <div className="btn-box mt-3 flex gap-4">
             <a
-              href="Resume.pdf"
+              href="/Resume.pdf"
               className="btn border bg-gradient-to-r from-purple-400 to-blue-400 border-[#915EFF] text-black font-bold px-4 py-3 rounded-md transition-all duration-300 
     hover:bg-gradient-to-r hover:from-purple-600 hover:to-blue-600 hover:text-white shadow-md shadow-[#664f98] cursor-pointer
     text-[18px]"
