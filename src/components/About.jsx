@@ -56,8 +56,8 @@ const About = () => {
               <br />
               <span className="text-white lg:text-xl sm:text-[22px] xs:text-[15px] font-semibold">
                 BSIT (Punjab University College of Information Technology) | Dec
-                2021 - May 2025 <br />
-                CGPA: 3.76 / 4.00
+                2021 - June 2025 <br />
+                CGPA: 3.79 / 4.00
               </span>
             </div>
           </motion.div>
